@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- ⚡ Animated Futuristic Header (Instagram Gradient Edition) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Sahil%20Shaikh!&fontAlign=center&fontColor=ffffff&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey!%20I%27m%20Sahil%20Shaikh!%20💖&fontAlign=50&fontAlignY=40&color=0:ff9966,50:ff5e62,100:9933ff&textBg=true&animation=fadeIn&fontColor=ffffff&desc=DevOps%20Engineer%20|%20Cloud%20Explorer%20☁️%20|%20Automation%20Ninja%20🤖&descAlign=50&descAlignY=65" />
 </p>
 
 ---
@@ -73,10 +73,20 @@
 
 ## 📝 Latest Blog Posts
 
-- [Docker Networking Essentials](https://www.linkedin.com)
-- [Kubernetes Architecture for Beginners](https://www.linkedin.com)
-- [AWS S3 Tips & Tricks](https://www.linkedin.com)
-- [Understanding Docker Exit Codes](https://www.linkedin.com)
+Stay updated with my thoughts, tips, and tech tales:
+
+- ✨ [Docker Networking Essentials](https://www.linkedin.com)  
+  _Understand how containers talk in a noisy world._
+
+- 🧠 [Kubernetes Architecture for Beginners](https://www.linkedin.com)  
+  _Decoding k8s – like explaining Avengers headquarters._
+
+- ☁️ [AWS S3 Tips & Tricks](https://www.linkedin.com)  
+  _Because storing cat pics efficiently matters._
+
+- 🐳 [Understanding Docker Exit Codes](https://www.linkedin.com)  
+  _Why did your container ghost you? Find out here._
+
 
 ---
 
@@ -85,24 +95,34 @@
 🚧 YouTube content coming soon — stay tuned!
 
 ---
+### 🚀 Featured Projects
+## 🔧 Currently Building...
 
-## 🚀 Featured Projects
+> 📚 I'm in my grind phase — upskilling in DevOps, scripting automation, and deploying dreams to the cloud.
 
-### [🎮 Super Mario Clone](https://github.com/your/mario-clone)
-Classic 2D game to flex your JavaScript skills.
+### 🌟 What I’m cooking behind the scenes:
 
-### [📦 DevOps Student App](https://github.com/your/student-app)
-- Full-stack app using Spring Boot + Angular
-- Deployed on AWS EC2 + RDS
-- CI/CD with Jenkins + Docker
+- 🐧 Mastering Linux and Shell Scripting
+- 🐳 Containerizing projects with Docker
+- ☁️ Playing with AWS (EC2, S3, RDS, IAM)
+- 🔧 CI/CD pipelines with Jenkins & GitHub Actions
+- 🔐 Learning user management, permissions & infra security
+- 🧠 Building projects soon... stay tuned!
 
-### 🛠️ My Tech Stack:
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?&logo=github-actions)
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazonaws)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible)
+> “Good code is its own best documentation.” – Steve McConnell
+
+### 🛠️ My Tech Stack
+
+> Tools I break, fix, automate & vibe with:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
 
 
 ---
