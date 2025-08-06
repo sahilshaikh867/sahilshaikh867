@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Sahil%20Shaikh!&fontAlign=center&fontColor=ffffff&color=gradient" />
 </p>
 
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Sahil%20Shaikh!&fontAlign=center&fontColor=ffffff&color=gradient" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -18,8 +13,8 @@ Hi, I'm **Sahil Shaikh**, an aspiring DevOps Engineer with a love for cloud comp
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-shaikh-781b94255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7TtphbB7TLeWTbmrPZ9EXg%3D%3D)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahilshaikh86767?igsh=ZDExYjZkNGI0OA==/)
 
 ---
 
