@@ -31,7 +31,10 @@ Hi, I'm **Sahil Shaikh**, an aspiring DevOps Engineer with a love for cloud comp
 
 ---
 
-![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9970009-66d5-4da9-8325-71abe946faa5" alt="DevOps Banner" width="100%" />
+</p>
+
 
 ---
 
