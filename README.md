@@ -1,6 +1,6 @@
 <!-- ⚡ Animated Futuristic Header (Instagram Gradient Edition) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey!%20I%27m%20Sahil%20Shaikh!%20💖&fontAlign=50&fontAlignY=40&color=0:ff9966,50:ff5e62,100:9933ff&textBg=true&animation=fadeIn&fontColor=ffffff&desc=DevOps%20Engineer%20|%20Cloud%20Explorer%20☁️%20|%20Automation%20Ninja%20🤖&descAlign=50&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey!%20I%27m%20Sahil%20Shaikh!%20💖&fontAlign=50&fontAlignY=40&color=0:ff9966,50:ff5e62,100:9933ff&textBg=true&animation=fadeIn&fontColor=ffffff&desc=DevOps,UIUX%20Engineer%20|%20Cloud%20Explorer%20☁️%20|%20Automation%20Ninja%20🤖&descAlign=50&descAlignY=65" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 <h1 align="center">
   Hi 👋, I'm Sahil Shaikh
   <br/>
-  <a href="#">🚀 Aspiring DevOps Engineer | Cloud Enthusiast | Automation Lover</a>
+  <a href="#">🚀 Aspiring DevOps & UIUX Engineer | Cloud Enthusiast | Wireframimng & Prototyping Master | Automation Lover</a>
 </h1>
 
 <h3 align="center">
