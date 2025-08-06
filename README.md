@@ -38,6 +38,14 @@ Hi, I'm **Sahil Shaikh**, an aspiring DevOps Engineer with a love for cloud comp
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahilshaikh867&theme=radical&border_radius=4.5" />
+  <a href="https://app.daily.dev/sahilshaikh867">
+    <img src="https://api.daily.dev/devcards/sahilshaikh867.png?type=default" width="400" alt="Sahil Shaikh's Dev Card"/>
+  </a>
+</p>
+
+
 ## 🌱 Contribution Graph
 
 <picture>
@@ -59,15 +67,17 @@ Hi, I'm **Sahil Shaikh**, an aspiring DevOps Engineer with a love for cloud comp
 
 ---
 
-## 🎵 Spotify Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mk4czcz4cqcqe7z32mklslqwry&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
 
-[![Spotify](https://novatorem-eta-smoky.vercel.app/api/spotify)](https://open.spotify.com/user/31mk4czcz4cqcqe7z32mklslqwry)
 
 ---
 
 ## 🎥 YouTube Section
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@sahilshaikh86767)
+🚧 YouTube content coming soon — stay tuned!
+
 
 ---
 
