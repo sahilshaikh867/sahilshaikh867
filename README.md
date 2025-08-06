@@ -61,13 +61,13 @@ Hi, I'm **Sahil Shaikh**, an aspiring DevOps Engineer with a love for cloud comp
 
 ## 🎵 Spotify Now Playing
 
-[![Spotify](https://novatorem-eta-smoky.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+[![Spotify](https://novatorem-eta-smoky.vercel.app/api/spotify)](https://open.spotify.com/user/31mk4czcz4cqcqe7z32mklslqwry)
 
 ---
 
 ## 🎥 YouTube Section
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@your-channel)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@sahilshaikh86767)
 
 ---
 
