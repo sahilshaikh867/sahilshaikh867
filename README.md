@@ -40,13 +40,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilshaikh867&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahilshaikh867&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshaikh867&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
