@@ -33,15 +33,20 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=sahilshaikh867&theme=radical&border_radius=4.5)
 
 ## 🧠 Learn what I’m up to every day:
+
 <p align="left">
   <a href="https://app.daily.dev/sahilshaikh46">
     <img src="https://api.daily.dev/devcards/v2/l43Pjv6blZhITbY2Omihz.png?type=wide&r=knh" width="652" alt="Sahil Shaikh's Dev Card"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilshaikh867&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahilshaikh867&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 ---
 
