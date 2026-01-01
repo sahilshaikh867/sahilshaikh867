@@ -143,6 +143,8 @@ Stay updated with my thoughts, tips, and tech tales:
   </a>
 </p>
 
+🚀 [Portfolio – Projects & Case Studies](https://my-portfolio-r4o7.onrender.com)
+
 
 
 <p align="center">Made with ❤️ by Sahil Shaikh</p>
