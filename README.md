@@ -44,9 +44,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshaikh867&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilshaikh867&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sahilshaikh867&theme=tokyonight)
 
 ---
 
