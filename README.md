@@ -129,3 +129,11 @@ Stay updated with my thoughts, tips, and DevOps field notes:
   </table>
 
 </div>
+---
+  =========================================================================================
+  © 2026 Sahil Shaikh (https://github.com/sahilshaikh867)
+  All Rights Reserved.
+  The design, visual assets, and customized SVG layouts in this 
+  repository are proprietary. Do not copy, scrape, or redistribute.
+  =========================================================================================
+---
