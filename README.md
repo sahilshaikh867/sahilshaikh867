@@ -4,7 +4,7 @@
   <img src="./assets/hero 1.svg" width="100%" alt="Sahil Shaikh — AWS-DevOps Engineer &amp; Mentor | Building scalable software &amp; helping engineers crack tech careers" />
 </p>
 
-<img src="./assets/about-life (1) 1.svg" width="100%" alt="Modern Web &amp; App Development, AI &amp; Cloud Integration, Community Mentorship. Beyond code: Creating tech content with Grow with Sahil." />
+<img src="./assets/about-life.svg" width="100%" alt="Modern Web &amp; App Development, AI &amp; Cloud Integration, Community Mentorship. Beyond code: Creating tech content with Grow with Sahil." />
 
 <img src="./assets/stack 1.svg" width="100%" alt="Tech Stack: DevOps, TypeScript, Python, React, Next.js, Node.js, Express, AWS, LLM APIs" />
 
@@ -17,7 +17,7 @@
 | [**Gemini Clone**](https://github.com/sahilshaikh867/Gemini-Clone) | Conversational AI web platform powered by Google Gemini API streaming responses | GenAI · LLM APIs · Cloud |
 | [**Currency Converter**](https://github.com/sahilshaikh867/CurrencyConverter) | Real-time exchange rate calculation tool with dynamic currency API integration | JavaScript · REST APIs · Tools |
 
-<img src="./assets/id-dashboard (1) 1.svg" width="100%" alt="Sahil's builder ID and public credentials dashboard. Snapshot of repositories and featured work." />
+<img src="./assets/id-dashboard.svg" width="100%" alt="Sahil's builder ID and public credentials dashboard. Snapshot of repositories and featured work." />
 
 <img src="./assets/connect 1.svg" width="100%" alt="Build something great together. Connect on LinkedIn, YouTube, Instagram, and Portfolio." />
 
