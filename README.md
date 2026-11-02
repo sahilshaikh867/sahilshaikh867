@@ -13,11 +13,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilshaikh867&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahilshaikh867&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
----
-
 <img src="./assets/stack 1.svg" width="100%" alt="Tech Stack: DevOps, TypeScript, Python, React, Next.js, Node.js, Express, AWS, LLM APIs" />
 
 ### 🛠️ Infrastructure, Cloud & Development Toolkit
@@ -25,6 +20,9 @@
 | Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub | VS Code | AWS |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="46" height="46" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="46" height="46"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="46" height="46"/> |
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahilshaikh867&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
@@ -51,6 +49,7 @@
 <img src="./assets/id-dashboard.svg" width="100%" alt="Sahil's builder ID and public credentials dashboard. Snapshot of repositories and featured work." />
 
 ---
+
 
 ## 📝 Technical Articles & Insights
 
